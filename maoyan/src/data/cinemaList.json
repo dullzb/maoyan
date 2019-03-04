@@ -1,0 +1,561 @@
+{
+    "cinemas": [{
+        "id": 12338,
+        "mark": 0,
+        "nm": "东城时代电影大世界",
+        "sellPrice": "29",
+        "addr": "江干区九堡杭海路1211号2楼",
+        "distance": "700m",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 0,
+            "hallTypeVOList": [],
+            "sell": 1,
+            "snack": 1,
+            "   ": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单2张立减4元"
+        }
+    }, {
+        "id": 25515,
+        "mark": 0,
+        "nm": "德信影城(九堡联创公园店)",
+        "sellPrice": "26",
+        "addr": "江干区九华路1号联创公园13幢1单元2层（10点前及22点后从商场3号门搭直达电梯至2层）",
+        "distance": "1.2km",
+        "tag": {
+            "allowRefund": 1,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 1,
+            "hallType": ["DTS:X 临境音厅"],
+            "hallTypeVOList": [{
+                "name": "DTS:X 临境音厅",
+                "url": ""
+            }],
+            "sell": 1,
+            "snack": 0,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单2张立减4元"
+        }
+    }, {
+        "id": 15522,
+        "mark": 0,
+        "nm": "神画国际影城(九堡店)",
+        "sellPrice": "26",
+        "addr": "江干区九环路48号财通大厦b幢7楼",
+        "distance": "1.6km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 1,
+            "hallTypeVOList": [],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单2张立减4元"
+        }
+    }, {
+        "id": 17412,
+        "mark": 0,
+        "nm": "金象时代影城(地铁东城店)",
+        "sellPrice": "33",
+        "addr": "江干区九沙大道399号地铁东城4F西侧",
+        "distance": "1.8km",
+        "tag": {
+            "allowRefund": 1,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 1,
+            "hallType": ["杜比全景声厅", "DTS:X 临境音厅"],
+            "hallTypeVOList": [{
+                "name": "杜比全景声厅",
+                "url": ""
+            }, {
+                "name": "DTS:X 临境音厅",
+                "url": ""
+            }],
+            "sell": 1,
+            "snack": 0
+        },
+        "promotion": {}
+    }, {
+        "id": 16195,
+        "mark": 0,
+        "nm": "杭州剑桥时代影城",
+        "sellPrice": "23",
+        "addr": "江干区机场路250号笕桥大润发超市4楼",
+        "distance": "3.8km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 0,
+            "hallType": ["杜比全景声厅"],
+            "hallTypeVOList": [{
+                "name": "杜比全景声厅",
+                "url": ""
+            }],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单2张立减6元"
+        }
+    }, {
+        "id": 25081,
+        "mark": 0,
+        "nm": "中影国际影城(东站西子店)",
+        "sellPrice": "34",
+        "addr": "江干区环站东路777号东站西子国际大厦A座4楼",
+        "distance": "4.3km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 0,
+            "hallType": ["杜比全景声厅", "儿童厅", "巨幕厅"],
+            "hallTypeVOList": [{
+                "name": "杜比全景声厅",
+                "url": ""
+            }, {
+                "name": "儿童厅",
+                "url": ""
+            }, {
+                "name": "巨幕厅",
+                "url": ""
+            }],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单2张立减6元"
+        }
+    }, {
+        "id": 25271,
+        "mark": 0,
+        "nm": "天玖国际影城",
+        "sellPrice": "26",
+        "addr": "江干区笕桥街道机场路355号浙商国际中心2幢4楼",
+        "distance": "4.5km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 0,
+            "hallType": ["杜比全景声厅"],
+            "hallTypeVOList": [{
+                "name": "杜比全景声厅",
+                "url": ""
+            }],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单2张立减10元"
+        }
+    }, {
+        "id": 16549,
+        "mark": 0,
+        "nm": "庄影影城(乔司杜比全景声店)",
+        "sellPrice": "28",
+        "addr": "余杭区乔司街道华荣城3号楼4楼庄影影城",
+        "distance": "4.8km",
+        "tag": {
+            "allowRefund": 1,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 1,
+            "hallType": ["杜比全景声厅"],
+            "hallTypeVOList": [{
+                "name": "杜比全景声厅",
+                "url": ""
+            }],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单2张立减4元"
+        }
+    }, {
+        "id": 24401,
+        "mark": 0,
+        "nm": "泰禾影城(江和美店)",
+        "sellPrice": "23",
+        "addr": "江干区杭海路601号江和美海洋生活广场4楼4-1室",
+        "distance": "5.3km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 1,
+            "hallType": ["杜比全景声厅"],
+            "hallTypeVOList": [{
+                "name": "杜比全景声厅",
+                "url": ""
+            }],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单2张立减2元"
+        }
+    }, {
+        "id": 12465,
+        "mark": 0,
+        "nm": "杭州时代国际影城",
+        "sellPrice": "27",
+        "addr": "江干区新风路619号汇和城五楼（红街公寓对面）",
+        "distance": "5.5km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 0,
+            "hallTypeVOList": [],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "限时¥17.9促销开卡，首单更优惠"
+        }
+    }, {
+        "id": 16561,
+        "mark": 0,
+        "nm": "太平洋影城(杭州下沙店)",
+        "sellPrice": "26",
+        "addr": "江干区下沙街道天城东路955号郡原蓝湖国际4幢3楼",
+        "distance": "5.6km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 1,
+            "hallType": ["CGS中国巨幕厅", "巨幕厅"],
+            "hallTypeVOList": [{
+                "name": "CGS中国巨幕厅",
+                "url": ""
+            }, {
+                "name": "巨幕厅",
+                "url": ""
+            }],
+            "sell": 1,
+            "snack": 1
+        },
+        "promotion": {}
+    }, {
+        "id": 12569,
+        "mark": 0,
+        "nm": "横店影院(丁桥店)",
+        "sellPrice": "34",
+        "addr": "江干区蕙兰雅路丁兰广场C区3楼",
+        "distance": "5.8km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 0,
+            "hallTypeVOList": [],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单2张立减10元"
+        }
+    }, {
+        "id": 16076,
+        "mark": 0,
+        "nm": "德信影城(创意中心店)",
+        "sellPrice": "32",
+        "addr": "江干区艮山西路102号杭州创意设计中心A幢",
+        "distance": "6.2km",
+        "tag": {
+            "allowRefund": 1,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 1,
+            "hallType": ["杜比全景声厅"],
+            "hallTypeVOList": [{
+                "name": "杜比全景声厅",
+                "url": ""
+            }],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单2张立减2元"
+        }
+    }, {
+        "id": 23721,
+        "mark": 0,
+        "nm": "嘉博国际影城",
+        "sellPrice": "26",
+        "addr": "下城区石桥路274号西狗茂南区2楼",
+        "distance": "6.3km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 0,
+            "hallType": ["杜比全景声厅", "巨幕厅"],
+            "hallTypeVOList": [{
+                "name": "杜比全景声厅",
+                "url": ""
+            }, {
+                "name": "巨幕厅",
+                "url": ""
+            }],
+            "sell": 1,
+            "snack": 0,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单2张立减4元"
+        }
+    }, {
+        "id": 13669,
+        "mark": 0,
+        "nm": "SFC上影影城(杭州下沙IMAX店)",
+        "sellPrice": "42",
+        "addr": "江干区杭州江干区金沙大道560号龙湖杭州金沙天街5F-28",
+        "distance": "6.4km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 0,
+            "hallType": ["IMAX厅"],
+            "hallTypeVOList": [{
+                "name": "IMAX厅",
+                "url": ""
+            }],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单2张立减10元"
+        }
+    }, {
+        "id": 15068,
+        "mark": 0,
+        "nm": "大地影院(下沙银泰STAR MAX店)",
+        "sellPrice": "33.9",
+        "addr": "江干区经济技术开发区海达南路397号银泰城8F",
+        "distance": "6.4km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 0,
+            "hallType": ["杜比全景声厅", "4K厅", "4D厅", "巨幕厅"],
+            "hallTypeVOList": [{
+                "name": "杜比全景声厅",
+                "url": ""
+            }, {
+                "name": "4K厅",
+                "url": ""
+            }, {
+                "name": "4D厅",
+                "url": ""
+            }, {
+                "name": "巨幕厅",
+                "url": ""
+            }],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "限时¥23.9促销开卡，首单更优惠"
+        }
+    }, {
+        "id": 8642,
+        "mark": 0,
+        "nm": "东漫国际影城(澳门广场店)",
+        "sellPrice": "26",
+        "addr": "江干区秋涛北路新澳门广场二楼（天城路口）",
+        "distance": "6.4km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 1,
+            "hallTypeVOList": [],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单2张立减2元"
+        }
+    }, {
+        "id": 11103,
+        "mark": 0,
+        "nm": "金逸影城(天虹店)",
+        "sellPrice": "42",
+        "addr": "江干区新塘路108号天虹购物中心B座6层",
+        "distance": "6.8km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 0,
+            "hallType": ["杜比全景声厅"],
+            "hallTypeVOList": [{
+                "name": "杜比全景声厅",
+                "url": ""
+            }],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单2张立减6元"
+        }
+    }, {
+        "id": 25147,
+        "mark": 0,
+        "nm": "银河欢乐影城(super 体验店)",
+        "sellPrice": "23",
+        "addr": "江干区金沙大道201号财通中心B1层（地铁高沙路C出口直达）",
+        "distance": "7.2km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 0,
+            "hallTypeVOList": [],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单2张立减4元"
+        }
+    }, {
+        "id": 24608,
+        "mark": 0,
+        "nm": "美影国际影城(钱江世纪城店)",
+        "sellPrice": "36",
+        "addr": "萧山区钱江世纪城钱江世纪公园A13幢",
+        "distance": "7.2km",
+        "tag": {
+            "allowRefund": 1,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 1,
+            "hallTypeVOList": [],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单2张立减2元"
+        }
+    }],
+    "ct_pois": [{
+        "ct_poi": "936879945111165696_a12338_c0",
+        "poiid": 41766116
+    }, {
+        "ct_poi": "936879945111165696_a25515_c1",
+        "poiid": 179307551
+    }, {
+        "ct_poi": "936879945111165696_a15522_c2",
+        "poiid": 87778664
+    }, {
+        "ct_poi": "936879945111165696_a17412_c3",
+        "poiid": 157854965
+    }, {
+        "ct_poi": "936879945111165696_a16195_c4",
+        "poiid": 102004135
+    }, {
+        "ct_poi": "936879945111165696_a25081_c5",
+        "poiid": 165628453
+    }, {
+        "ct_poi": "936879945111165696_a25271_c6",
+        "poiid": 170568401
+    }, {
+        "ct_poi": "936879945111165696_a16549_c7",
+        "poiid": 117306511
+    }, {
+        "ct_poi": "936879945111165696_a24401_c8",
+        "poiid": 164537622
+    }, {
+        "ct_poi": "936879945111165696_a12465_c9",
+        "poiid": 42433176
+    }, {
+        "ct_poi": "936879945111165696_a16561_c10",
+        "poiid": 114767711
+    }, {
+        "ct_poi": "936879945111165696_a12569_c11",
+        "poiid": 42176868
+    }, {
+        "ct_poi": "936879945111165696_a16076_c12",
+        "poiid": 108268177
+    }, {
+        "ct_poi": "936879945111165696_a23721_c13",
+        "poiid": 159315817
+    }, {
+        "ct_poi": "936879945111165696_a13669_c14",
+        "poiid": 67948019
+    }, {
+        "ct_poi": "936879945111165696_a15068_c15",
+        "poiid": 97518463
+    }, {
+        "ct_poi": "936879945111165696_a8642_c16",
+        "poiid": 5699847
+    }, {
+        "ct_poi": "936879945111165696_a11103_c17",
+        "poiid": 41474753
+    }, {
+        "ct_poi": "936879945111165696_a25147_c18",
+        "poiid": 165254797
+    }, {
+        "ct_poi": "936879945111165696_a24608_c19",
+        "poiid": 164931504
+    }],
+    "paging": {
+        "hasMore": true,
+        "limit": 20,
+        "offset": 0,
+        "total": 180
+    },
+    "resId": "1551617580807"
+}
